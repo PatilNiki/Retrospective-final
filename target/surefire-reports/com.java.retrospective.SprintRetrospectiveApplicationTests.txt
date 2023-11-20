@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.java.retrospective.SprintRetrospectiveApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.398 s - in com.java.retrospective.SprintRetrospectiveApplicationTests
